@@ -21,16 +21,16 @@
             <StackPanel Margin="10,0,10,0" Height="139" Background="White">
                 <StackPanel Orientation="Horizontal" Margin="0,5">
                     <Label Content="Tên loại gạch" Width="100"/>
-                    <TextBox Name="txtTenLoaiGach" Width="150" TextChanged="txtTenLoaiGach_TextChanged">
-                        <TextBox.Background>
-                            <ImageBrush/>
-                        </TextBox.Background>
-                    </TextBox>
+                    <ComboBox Name="cbtengach"
+                              Width="150"
+                              DropDownOpened="cbtengach_DropDownOpened"/>
                 </StackPanel>
 
                 <StackPanel Orientation="Horizontal" Margin="0,5">
                     <Label Content="Kích thước" Width="100"/>
-                    <ComboBox Name="cbKichThuoc" Width="150"/>
+                    <ComboBox Name="cbKichThuoc"
+                              Width="150"
+                              DropDownOpened="cbKichThuoc_DropDownOpened"/>
                     <Label Content="mm" Margin="5,0,0,0"/>
                 </StackPanel>
 
