@@ -2,7 +2,7 @@
      Lớp môn học: LOPNV90            <br> 
 2. Thành viên           <br> 
    - Nhóm trưởng: Mông Thiên Quang - 67TH3 - 0302867 - 0395228600 - mooquang@gmail.com;           <br> 
-   - Thành viên 1: Phùng Hữu Phú           <br> 
+   - Thành viên 1: Phùng Hữu Phú - 67TH3 - 0273667 - 0337424570 - phunghuuphu2004@gmail.com          <br> 
    - Thành viên 2: Lương Xuân Hiếu - 67TH3 - 0020367 - 0962350263 - hieuluong511@gmail.com          <br> 
 3. Tính Năng phần mềm           <br> 
    a, Kết nối dữ liệu với Revit           <br> 
