@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DALTUDXD_LOPNV90_2025_0302867/1.0.0": {
+        "runtime": {
+          "DALTUDXD_LOPNV90_2025_0302867.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DALTUDXD_LOPNV90_2025_0302867/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
